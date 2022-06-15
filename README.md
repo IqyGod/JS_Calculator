@@ -5,7 +5,8 @@ This is a project to build a responsive web calculator application using HTML/CS
 
  ## My calculator contains :
 
- <img src="https://i.bmp.ovh/imgs/2022/05/19/3b0135b81a4cccdd.png" width=40% height=40%>
+
+ <img src="https://user-images.githubusercontent.com/99662300/173732732-4a4be271-ccf9-4daf-a9db-eb1eab59c9e3.png" width=40% height=40%>
  
  - 10 clickable elements containing one number each from 0-9.
  - 5 primary mathematical operators with the following corresponding IDs: 
